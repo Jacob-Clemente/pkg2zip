@@ -1,0 +1,5 @@
+project: jacob-clemente/pkg2zip
+target: pkg2zip
+
+cmds:
+  - cmd: /pkg2zip -x @@
